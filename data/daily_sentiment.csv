@@ -1882,21 +1882,41 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-04-28,2001: An Air Quality Odyssey,,Neutral,0.9997972846031188,Hackaday
 2026-04-29,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
 2026-04-29,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
-2026-04-29,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-04-29,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658448,BBC News
 2026-04-29,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
 2026-04-29,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
-2026-04-29,"How AI could destroy — or save — humanity, according to former AI insiders",,Neutral,0.9971359968185425,Business Insider
-2026-04-29,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147583,Business Insider
+2026-04-29,"How AI could destroy — or save — humanity, according to former AI insiders",,Neutral,0.9971359968185424,Business Insider
+2026-04-29,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147584,Business Insider
 2026-04-29,I saw the AI apocalypse documentary. It made the stakes of the new technology feel even higher.,,Positive,0.9997722506523132,Business Insider
 2026-04-29,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
-2026-04-29,Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have,,Negative,0.9991539716720581,NPR
+2026-04-29,Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have,,Negative,0.999153971672058,NPR
 2026-04-29,AI Could Democratize One of Tech's Most Valuable Resources,,Positive,0.914780855178833,Wired
-2026-04-29,"'How are you using AI?' Your therapist should ask you that question, experts argue",,Neutral,0.9979370832443237,NPR
+2026-04-29,"'How are you using AI?' Your therapist should ask you that question, experts argue",,Neutral,0.9979370832443236,NPR
 2026-04-29,Iran Threatens to Start Attacking Major US Tech Firms on April 1,,Negative,0.9999490976333618,Wired
 2026-04-29,Some Locals Are Using AI to Protest Against Data Centers,,Neutral,0.9973581433296204,Gizmodo.com
-2026-04-29,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
-2026-04-29,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.9997274279594421,Yahoo Entertainment
+2026-04-29,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250184,Gizmodo.com
+2026-04-29,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.999727427959442,Yahoo Entertainment
 2026-04-29,Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom,,Positive,0.999998927116394,Gizmodo.com
 2026-04-29,Congress can finally close a mass surveillance loophole — but will they?,,Neutral,0.9999099969863892,The Verge
 2026-04-29,OpenAI made economic proposals — here’s what DC thinks of them,,Neutral,0.9999011754989624,The Verge
 2026-04-29,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
+2026-04-30,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
+2026-04-30,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
+2026-04-30,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-04-30,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
+2026-04-30,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
+2026-04-30,"How AI could destroy — or save — humanity, according to former AI insiders",,Neutral,0.9971359968185425,Business Insider
+2026-04-30,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147583,Business Insider
+2026-04-30,I saw the AI apocalypse documentary. It made the stakes of the new technology feel even higher.,,Positive,0.9997722506523132,Business Insider
+2026-04-30,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
+2026-04-30,AI Could Democratize One of Tech's Most Valuable Resources,,Positive,0.914780855178833,Wired
+2026-04-30,"'How are you using AI?' Your therapist should ask you that question, experts argue",,Neutral,0.9979370832443237,NPR
+2026-04-30,Iran Threatens to Start Attacking Major US Tech Firms on April 1,,Negative,0.9999490976333618,Wired
+2026-04-30,Some Locals Are Using AI to Protest Against Data Centers,,Neutral,0.9973581433296204,Gizmodo.com
+2026-04-30,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
+2026-04-30,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.9997274279594421,Yahoo Entertainment
+2026-04-30,Apple App Store Experiences Surge in New Apps Amid Vibe Coding Boom,,Positive,0.999998927116394,Gizmodo.com
+2026-04-30,Congress can finally close a mass surveillance loophole — but will they?,,Neutral,0.9999099969863892,The Verge
+2026-04-30,OpenAI made economic proposals — here’s what DC thinks of them,,Neutral,0.9999011754989624,The Verge
+2026-04-30,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
+2026-04-30,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
