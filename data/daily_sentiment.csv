@@ -2162,21 +2162,41 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-12,Oscars Bans AI Actors and Writing From Awards,,Neutral,0.9991856217384338,Slashdot.org
 2026-05-13,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
 2026-05-13,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
-2026-05-13,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-13,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658448,BBC News
 2026-05-13,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
 2026-05-13,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
-2026-05-13,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147583,Business Insider
+2026-05-13,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147584,Business Insider
 2026-05-13,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
 2026-05-13,AI Could Democratize One of Tech's Most Valuable Resources,,Positive,0.914780855178833,Wired
 2026-05-13,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
 2026-05-13,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
 2026-05-13,Some Locals Are Using AI to Protest Against Data Centers,,Neutral,0.9973581433296204,Gizmodo.com
 2026-05-13,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
-2026-05-13,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
-2026-05-13,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.9997274279594421,Yahoo Entertainment
+2026-05-13,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250184,Gizmodo.com
+2026-05-13,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.999727427959442,Yahoo Entertainment
 2026-05-13,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
 2026-05-13,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
-2026-05-13,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661255,Huggingface.co
-2026-05-13,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
+2026-05-13,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661256,Huggingface.co
+2026-05-13,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956908,Hipertextual
 2026-05-13,Mexico’s climate supercomputer could change forecasting,,Neutral,0.9683910608291626,Fox News
-2026-05-13,Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models,,Neutral,0.9998583793640137,Gizmodo.com
+2026-05-13,Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models,,Neutral,0.9998583793640136,Gizmodo.com
+2026-05-14,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
+2026-05-14,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
+2026-05-14,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-14,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
+2026-05-14,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
+2026-05-14,Snap says it will lay off 16% of its global workforce. Read the memo it sent to staff.,,Neutral,0.9999924898147583,Business Insider
+2026-05-14,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
+2026-05-14,AI Could Democratize One of Tech's Most Valuable Resources,,Positive,0.914780855178833,Wired
+2026-05-14,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
+2026-05-14,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
+2026-05-14,Some Locals Are Using AI to Protest Against Data Centers,,Neutral,0.9973581433296204,Gizmodo.com
+2026-05-14,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
+2026-05-14,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
+2026-05-14,Prediction: 1 Artificial Intelligence (AI) Stock That Will Be Worth More Than Palantir and Micron Combined by 2028,,Neutral,0.9997274279594421,Yahoo Entertainment
+2026-05-14,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
+2026-05-14,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
+2026-05-14,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
+2026-05-14,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
+2026-05-14,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661255,Huggingface.co
+2026-05-14,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
