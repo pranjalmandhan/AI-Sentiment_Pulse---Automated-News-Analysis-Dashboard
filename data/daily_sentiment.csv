@@ -2282,21 +2282,41 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-18,Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models,,Neutral,0.9998583793640136,Gizmodo.com
 2026-05-19,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
 2026-05-19,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
-2026-05-19,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-19,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658448,BBC News
 2026-05-19,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
 2026-05-19,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
 2026-05-19,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
 2026-05-19,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
 2026-05-19,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
-2026-05-19,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
+2026-05-19,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250184,Gizmodo.com
 2026-05-19,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
 2026-05-19,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
 2026-05-19,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
 2026-05-19,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
 2026-05-19,Opinion - AI is raising the price of entry into the workforce. Education must lower it.,,Negative,0.6654261946678162,The Hill
-2026-05-19,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
-2026-05-19,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661255,Huggingface.co
-2026-05-19,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
-2026-05-19,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814331,Hipertextual
+2026-05-19,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.999997854232788,Hipertextual
+2026-05-19,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661256,Huggingface.co
+2026-05-19,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956908,Hipertextual
+2026-05-19,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814332,Hipertextual
 2026-05-19,Mexico’s climate supercomputer could change forecasting,,Neutral,0.9683910608291626,Fox News
-2026-05-19,Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models,,Neutral,0.9998583793640137,Gizmodo.com
+2026-05-19,Trump Reportedly Considering Executive Order Aimed at Vetting New AI Models,,Neutral,0.9998583793640136,Gizmodo.com
+2026-05-20,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
+2026-05-20,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
+2026-05-20,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-20,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
+2026-05-20,Join Our Livestream: Musk v. Altman and the Future of OpenAI,,Neutral,0.9999550580978394,Wired
+2026-05-20,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
+2026-05-20,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-05-20,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
+2026-05-20,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
+2026-05-20,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
+2026-05-20,Watch Sony’s AI Robot Compete With—and Beat—Elite Table Tennis Players,,Neutral,0.9997231364250183,Gizmodo.com
+2026-05-20,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
+2026-05-20,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
+2026-05-20,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
+2026-05-20,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
+2026-05-20,Opinion - AI is raising the price of entry into the workforce. Education must lower it.,,Negative,0.6654261946678162,The Hill
+2026-05-20,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
+2026-05-20,DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence,,Positive,0.9999905824661255,Huggingface.co
+2026-05-20,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
+2026-05-20,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814331,Hipertextual
