@@ -2402,10 +2402,10 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-24,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956908,Hipertextual
 2026-05-25,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
 2026-05-25,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
-2026-05-25,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-25,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658448,BBC News
 2026-05-25,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
 2026-05-25,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
-2026-05-25,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-05-25,How to Watch Google I/O,,Neutral,0.997899293899536,Wired
 2026-05-25,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
 2026-05-25,Trump had ‘many’ concerns about AI draft policy order,,Negative,0.9999117851257324,Politico
 2026-05-25,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
@@ -2417,6 +2417,26 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-25,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
 2026-05-25,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
 2026-05-25,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
-2026-05-25,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
-2026-05-25,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
-2026-05-25,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814331,Hipertextual
+2026-05-25,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.999997854232788,Hipertextual
+2026-05-25,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956908,Hipertextual
+2026-05-25,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814332,Hipertextual
+2026-05-26,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
+2026-05-26,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
+2026-05-26,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-26,Ace the Ping-Pong Robot Can Whup Your Ass,,Neutral,0.9997219443321228,Wired
+2026-05-26,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
+2026-05-26,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-05-26,Chinese satellites raising concern about intelligence sharing with Iran,,Negative,0.9999970197677612,Newsnationnow.com
+2026-05-26,Trump had ‘many’ concerns about AI draft policy order,,Negative,0.9999117851257324,Politico
+2026-05-26,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
+2026-05-26,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
+2026-05-26,99% of CEOs Expect AI-Driven Layoffs in the Next Two Years,,Neutral,0.9982303977012634,Gizmodo.com
+2026-05-26,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
+2026-05-26,Artificial intelligence could eliminate thousands of jobs in New York City: Report,,Neutral,0.9991294741630554,Abcnews.com
+2026-05-26,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
+2026-05-26,Opinion - AI is raising the price of entry into the workforce. Education must lower it.,,Negative,0.6654261946678162,The Hill
+2026-05-26,China blocks Meta from acquiring AI startup Manus,,Neutral,0.9821054935455322,Yahoo Entertainment
+2026-05-26,China's DeepSeek rolls out a long-anticipated update of its AI model,,Neutral,0.9999908208847046,Yahoo Entertainment
+2026-05-26,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
+2026-05-26,New York official warns AI could cost city thousands of jobs,,Negative,0.8942160606384277,The Hill
+2026-05-26,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
