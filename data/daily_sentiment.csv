@@ -2463,9 +2463,9 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-28,Attack of the killer script kiddies,,Negative,0.9961150884628296,The Verge
 2026-05-28,Pope Leo calls for being ‘profoundly human’ in the age of AI,,Neutral,0.999110996723175,The Verge
 2026-05-28,Microsoft and OpenAI’s famed AGI agreement is dead,,Neutral,0.9999432563781738,The Verge
-2026-05-28,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658447,BBC News
+2026-05-28,Why Elon Musk and Sam Altman are fighting over OpenAI,,Neutral,0.9985392093658448,BBC News
 2026-05-28,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
-2026-05-28,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-05-28,How to Watch Google I/O,,Neutral,0.997899293899536,Wired
 2026-05-28,Therapists are using AI to take notes. Is it a useful tool or a breach of trust?,,Neutral,0.9865389466285706,NPR
 2026-05-28,Trump had ‘many’ concerns about AI draft policy order,,Negative,0.9999117851257324,Politico
 2026-05-28,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
@@ -2478,5 +2478,25 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-05-28,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
 2026-05-28,New York official warns AI could cost city thousands of jobs,,Negative,0.8942160606384277,The Hill
 2026-05-28,Opinion - AI is raising the price of entry into the workforce. Education must lower it.,,Negative,0.6654261946678162,The Hill
-2026-05-28,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
-2026-05-28,WATCH: Mom says she lost $5K in AI scam with daughter’s voice,,Neutral,0.9794589877128601,Abcnews.com
+2026-05-28,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.999997854232788,Hipertextual
+2026-05-28,WATCH: Mom says she lost $5K in AI scam with daughter’s voice,,Neutral,0.97945898771286,Abcnews.com
+2026-05-29,Pope Leo calls for being ‘profoundly human’ in the age of AI,,Neutral,0.999110996723175,The Verge
+2026-05-29,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
+2026-05-29,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-05-29,Therapists are using AI to take notes. Is it a useful tool or a breach of trust?,,Neutral,0.9865389466285706,NPR
+2026-05-29,Trump had ‘many’ concerns about AI draft policy order,,Negative,0.9999117851257324,Politico
+2026-05-29,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
+2026-05-29,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
+2026-05-29,99% of CEOs Expect AI-Driven Layoffs in the Next Two Years,,Neutral,0.9982303977012634,Gizmodo.com
+2026-05-29,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.8199682235717773,Gizmodo.com
+2026-05-29,Artificial intelligence could eliminate thousands of jobs in New York City: Report,,Neutral,0.9991294741630554,Abcnews.com
+2026-05-29,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
+2026-05-29,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
+2026-05-29,New York official warns AI could cost city thousands of jobs,,Negative,0.8942160606384277,The Hill
+2026-05-29,One Tech Tip: Your next job interview could be with an AI bot,,Neutral,0.9999902248382568,Yahoo Entertainment
+2026-05-29,Opinion - AI is raising the price of entry into the workforce. Education must lower it.,,Negative,0.6654261946678162,The Hill
+2026-05-29,Google presenta Gemini Intelligence: el último clavo en el ataúd de ChatGPT y Apple Intelligence,,Neutral,0.9999978542327881,Hipertextual
+2026-05-29,WATCH: Mom says she lost $5K in AI scam with daughter’s voice,,Neutral,0.9794589877128601,Abcnews.com
+2026-05-29,Google descubre el primer ciberataque construido con inteligencia artificial,,Neutral,0.9998883008956909,Hipertextual
+2026-05-29,Filtrados los primeros móviles que llegarían con Gemini Intelligence integrado,,Neutral,0.9999779462814331,Hipertextual
+2026-05-29,WATCH: Pope warns AI ‘needs to be disarmed’,,Neutral,0.7692973017692566,Abcnews.com
