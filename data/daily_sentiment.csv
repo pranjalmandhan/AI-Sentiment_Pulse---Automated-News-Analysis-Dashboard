@@ -2646,7 +2646,7 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-06-07,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
 2026-06-07,Trump's New AI Executive Order Has No Teeth and No Requirements,,Neutral,0.9994957447052002,CNET
 2026-06-07,Mistral CEO Says the Pope’s Comments Are a Big Problem for Europe’s War on American Tech,,Negative,0.999858021736145,Gizmodo.com
-2026-06-07,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-06-07,How to Watch Google I/O,,Neutral,0.997899293899536,Wired
 2026-06-07,Therapists are using AI to take notes. Is it a useful tool or a breach of trust?,,Neutral,0.9865389466285706,NPR
 2026-06-07,Promoting Advanced Artificial Intelligence Innovation and Security,,Positive,0.9999974966049194,Whitehouse.gov
 2026-06-07,Artificial intelligence is not conscious – Ted Chiang,,Neutral,0.8743807673454285,The Atlantic
@@ -2660,3 +2660,23 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-06-07,Explainer-What are AI PCs that Nvidia's Jensen Huang is betting on?,,Neutral,0.9999592304229736,Yahoo Entertainment
 2026-06-07,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
 2026-06-07,New York official warns AI could cost city thousands of jobs,,Negative,0.8942160606384277,The Hill
+2026-06-08,Anthropic: AI could escape human control,,Negative,0.9996416568756104,BBC News
+2026-06-08,Pope Leo calls for being ‘profoundly human’ in the age of AI,,Neutral,0.999110996723175,The Verge
+2026-06-08,But Just What is This ‘Artificial Intelligence’?,,Neutral,0.9963828325271606,Hackaday
+2026-06-08,The Pope Is Hooking Up With a Co-Founder of Anthropic for Collab on AI,,Neutral,0.9999990463256836,Gizmodo.com
+2026-06-08,Trump's New AI Executive Order Has No Teeth and No Requirements,,Neutral,0.9994957447052002,CNET
+2026-06-08,Mistral CEO Says the Pope’s Comments Are a Big Problem for Europe’s War on American Tech,,Negative,0.999858021736145,Gizmodo.com
+2026-06-08,How to Watch Google I/O,,Neutral,0.9978992938995361,Wired
+2026-06-08,Therapists are using AI to take notes. Is it a useful tool or a breach of trust?,,Neutral,0.9865387678146362,NPR
+2026-06-08,Promoting Advanced Artificial Intelligence Innovation and Security,,Positive,0.9999974966049194,Whitehouse.gov
+2026-06-08,Artificial intelligence is not conscious – Ted Chiang,,Neutral,0.8743804097175598,The Atlantic
+2026-06-08,Trump had ‘many’ concerns about AI draft policy order,,Negative,0.9999117851257324,Politico
+2026-06-08,The AI fitness instructors selling unreal gains,,Positive,0.999980092048645,BBC News
+2026-06-08,Elon Musk called Anthropic ‘evil’ 3 months ago. Now he’s taking $4 billion to become its data landlord,,Neutral,0.9999853372573853,Yahoo Entertainment
+2026-06-08,99% of CEOs Expect AI-Driven Layoffs in the Next Two Years,,Neutral,0.9982302784919739,Gizmodo.com
+2026-06-08,The Golden Globes’ AI Rules Are Way Less Strict Than the Oscars’,,Neutral,0.81996750831604,Gizmodo.com
+2026-06-08,Artificial intelligence could eliminate thousands of jobs in New York City: Report,,Neutral,0.9991294741630554,Abcnews.com
+2026-06-08,I Used AI for Almost Everything for 1 Year: Here's What I Learned,,Neutral,0.9998315572738647,Yahoo Entertainment
+2026-06-08,Explainer-What are AI PCs that Nvidia's Jensen Huang is betting on?,,Neutral,0.9999592304229736,Yahoo Entertainment
+2026-06-08,Nvidia Q1 results surpass Wall Street expectations thanks to massive AI chip demand,,Positive,0.9999998807907104,Yahoo Entertainment
+2026-06-08,New York official warns AI could cost city thousands of jobs,,Negative,0.8942158818244934,The Hill
