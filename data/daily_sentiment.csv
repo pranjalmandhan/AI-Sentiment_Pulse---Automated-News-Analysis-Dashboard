@@ -4660,19 +4660,19 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-09-17,"Adobe Forecast Misses Estimates, Renewing Fears About AI Impact",,Negative,0.9999991655349731,Yahoo Entertainment
 2026-09-17,Why So Many AI Researchers Think the Machines Could Kill Everyone,,Negative,0.7682279348373413,Wired
 2026-09-17,"UK, Ukraine sign AI defence partnership linked to battlefield technology",,Neutral,0.9998053908348083,Yahoo Entertainment
-2026-09-18,"Could AI pose a threat to humanity, and can it be regulated?",,Negative,0.9089111089706421,BBC News
+2026-09-18,"Could AI pose a threat to humanity, and can it be regulated?",,Negative,0.908911108970642,BBC News
 2026-09-18,"More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",,Neutral,0.9987850785255432,The Verge
-2026-09-18,Artificial Intelligence as It Once Was,,Neutral,0.9977118968963623,Hackaday
+2026-09-18,Artificial Intelligence as It Once Was,,Neutral,0.9977118968963624,Hackaday
 2026-09-18,Made in America: How AI is keeping this U.S. factory competitive,,Neutral,0.998433530330658,NPR
-2026-09-18,Artificial Analysis Intelligence Index v4.2,,Neutral,0.9998688697814941,Artificialanalysis.ai
+2026-09-18,Artificial Analysis Intelligence Index v4.2,,Neutral,0.999868869781494,Artificialanalysis.ai
 2026-09-18,"Jensen Huang says Nvidia achieved AGI, again — not that it matters",,Neutral,0.7147106528282166,The Verge
 2026-09-18,A new Anthropic model seeks to test how AI could impact the U.S. economy,,Neutral,0.9997417330741882,NPR
-2026-09-18,"Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",,Negative,0.9899057745933533,NPR
-2026-09-18,12 celebrities who support AI,,Neutral,0.9704466462135315,Business Insider
+2026-09-18,"Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",,Negative,0.9899057745933532,NPR
+2026-09-18,12 celebrities who support AI,,Neutral,0.9704466462135316,Business Insider
 2026-09-18,Americans love AI. They don't want the data centers that power it.,,Neutral,0.9991746544837952,Business Insider
 2026-09-18,Gruffalo illustrator says rise of AI images 'worrying',,Neutral,0.9832624197006226,BBC News
 2026-09-18,"Artificial Intelligence, Quote Unquote",,Neutral,0.9971758127212524,Penny-arcade.com
-2026-09-18,Vintage Artificial Intelligence: Before It Got Awkward,,Neutral,0.9989088773727417,Archive.org
+2026-09-18,Vintage Artificial Intelligence: Before It Got Awkward,,Neutral,0.9989088773727416,Archive.org
 2026-09-18,The Malicious Use of Artificial Intelligence,,Negative,0.9927164912223816,Arxiv.org
 2026-09-18,Pentagon AI chief says US allies lack the resources to keep pace,,Negative,0.9998632669448853,The Next Web
 2026-09-18,Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse,,Negative,0.9985153079032898,Kotaku
@@ -4680,3 +4680,23 @@ date,title,sentiment_score,sentiment,confidence,source
 2026-09-18,"Adobe Forecast Misses Estimates, Renewing Fears About AI Impact",,Negative,0.9999991655349731,Yahoo Entertainment
 2026-09-18,Why So Many AI Researchers Think the Machines Could Kill Everyone,,Negative,0.7682279348373413,Wired
 2026-09-18,"UK, Ukraine sign AI defence partnership linked to battlefield technology",,Neutral,0.9998053908348083,Yahoo Entertainment
+2026-09-19,"Could AI pose a threat to humanity, and can it be regulated?",,Negative,0.9089111089706421,BBC News
+2026-09-19,"More than 1 in 10 chance AI ‘could kill all humans,’ says Anthropic safety lead after colleague quits",,Neutral,0.9987850785255432,The Verge
+2026-09-19,Artificial Intelligence as It Once Was,,Neutral,0.9977118968963623,Hackaday
+2026-09-19,Made in America: How AI is keeping this U.S. factory competitive,,Neutral,0.998433530330658,NPR
+2026-09-19,Artificial Analysis Intelligence Index v4.2,,Neutral,0.9998688697814941,Artificialanalysis.ai
+2026-09-19,"Jensen Huang says Nvidia achieved AGI, again — not that it matters",,Neutral,0.7147106528282166,The Verge
+2026-09-19,A new Anthropic model seeks to test how AI could impact the U.S. economy,,Neutral,0.9997417330741882,NPR
+2026-09-19,"Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",,Negative,0.9899057745933533,NPR
+2026-09-19,12 celebrities who support AI,,Neutral,0.9704466462135315,Business Insider
+2026-09-19,Americans love AI. They don't want the data centers that power it.,,Neutral,0.9991746544837952,Business Insider
+2026-09-19,Gruffalo illustrator says rise of AI images 'worrying',,Neutral,0.9832624197006226,BBC News
+2026-09-19,"Artificial Intelligence, Quote Unquote",,Neutral,0.9971758127212524,Penny-arcade.com
+2026-09-19,Vintage Artificial Intelligence: Before It Got Awkward,,Neutral,0.9989088773727417,Archive.org
+2026-09-19,The Malicious Use of Artificial Intelligence,,Negative,0.9927164912223816,Arxiv.org
+2026-09-19,Pentagon AI chief says US allies lack the resources to keep pace,,Negative,0.9998632669448853,The Next Web
+2026-09-19,Epic Games CEO Tim Sweeney Says The Industry Is Crashing And AI Is Making It Worse,,Negative,0.9985153079032898,Kotaku
+2026-09-19,"Adobe Forecast Misses Estimates, Renewing Fears About AI Impact",,Negative,0.9999991655349731,Yahoo Entertainment
+2026-09-19,Explainer-How China is preparing for the risk of AI escaping human control,,Neutral,0.5800318717956543,Yahoo Entertainment
+2026-09-19,Why So Many AI Researchers Think the Machines Could Kill Everyone,,Negative,0.7682279348373413,Wired
+2026-09-19,"UK, Ukraine sign AI defence partnership linked to battlefield technology",,Neutral,0.9998053908348083,Yahoo Entertainment
